@@ -13,6 +13,7 @@ If you get something like the following then your docker is up and running and y
 `A self-sufficient runtime for containers`
 
 `Common Commands:
+
   run         Create and run a new container from an image
   exec        Execute a command in a running container
   ps          List containers
@@ -23,6 +24,7 @@ If you get something like the following then your docker is up and running and y
 ## Entering the WSL from which we will be executing the following lines of Code:
 
 Open your powershell and type in `wsl`. Press enter you should see something like the following:
+
 `PS C:\WINDOWS\system32> wsl
 username@pcname:/mnt/c/WINDOWS/system32$	`
 
