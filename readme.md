@@ -18,7 +18,7 @@ If you get something like the following then your docker is up and running and y
   ps          List containers
   build       Build an image from a Dockerfile
   pull        Download an image from a registry
-  push        Upload an image to a registry`....
+  push        Upload an image to a registry`...
 `
 ## Entering the WSL from which we will be executing the following lines of Code:
 
