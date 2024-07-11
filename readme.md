@@ -8,18 +8,18 @@ This repository gives you a quick introduction to getting a simple container run
 Firstly make sure you have Docker up and running in your system by typing in `docker` in your terminal.
 
 If you get something like the following then your docker is up and running and you can proceed to the next step:
-`Usage:  docker [OPTIONS] COMMAND
+`Usage:  docker [OPTIONS] COMMAND`
 
-A self-sufficient runtime for containers
+`A self-sufficient runtime for containers`
 
-Common Commands:
+`Common Commands:
   run         Create and run a new container from an image
   exec        Execute a command in a running container
   ps          List containers
   build       Build an image from a Dockerfile
   pull        Download an image from a registry
   push        Upload an image to a registry`....
-
+`
 ## Entering the WSL from which we will be executing the following lines of Code:
 
 Open your powershell and type in `wsl`. Press enter you should see something like the following:
